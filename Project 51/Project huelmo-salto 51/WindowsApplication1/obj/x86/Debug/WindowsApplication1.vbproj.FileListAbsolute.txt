@@ -7,3 +7,16 @@ c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\Window
 c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
 c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
 c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Project-calculator\Project 51\Project huelmo-salto 51\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Calculator.resources
